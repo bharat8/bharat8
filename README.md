@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharat8)](https://github.com/anuraghazra/github-readme-stats)
+[![Bharat's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharat8&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bharat8/bharat8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
